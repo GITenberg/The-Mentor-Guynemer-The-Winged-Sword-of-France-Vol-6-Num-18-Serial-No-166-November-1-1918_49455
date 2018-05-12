@@ -1,10 +1,16 @@
 _repo: The-Mentor-Guynemer-The-Winged-Sword-of-France-Vol-6-Num-18-Serial-No-166-November-1-1918_49455
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49455-h/images/cover.jpg
 creator:
   author:
     agent_name: Cook, Howard W.
     gutenberg_agent_id: '45349'
     url: http://www.gutenberg.org/2009/agents/45349
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49455#The-Mentor-Guynemer-The-Winged-Sword-of-France-Vol-6-Num-18-Serial-No-166-November-1-1918
 gutenberg_issued: '2015-07-16'
 gutenberg_type: Text
 identifiers:
