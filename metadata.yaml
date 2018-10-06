@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Mentor: Guynemer, The Wingèd Sword of France, Vol. 6, Num. 18, Serial
   No. 166, November 1, 1918'
 url: http://www.gutenberg.org/ebooks/49455
